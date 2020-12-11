@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'BeatBox',
             demo: false,
             technologies: ['JAVA'],
-            description: "자바 기초를 다지기 위해 이클립스 콘솔창을 이용하는 간단한 영화 예매 프로그램 구현",
+            description: "[자바 미니프로젝트] 기초를 다지기 위해 이클립스 콘솔창을 이용하는 간단한 영화 예매 프로그램 구현",
             categories: ['java']
         },
         {
@@ -24,26 +24,26 @@ let render_projects = (slug) => {
             link: 'https://github.com/alikwon/BIT_CAMP/tree/master/CafeProject',
             title: 'Cafe Kiosk',
             demo: false,
-            technologies: ['HTML', 'JavaScript','CSS','JQuery'],
-            description: "[웹표준 프로젝트] 카페 키오스크를 HTML5를 이용해 구현(데이터는 JSON사용)",
+            technologies: ['HTML', 'JavaScript','CSS','JQuery','JSON'],
+            description: "[웹표준 프로젝트] 카페 키오스크를 HTML5를 이용해 구현",
             categories: ['html']
         },
         {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
+            image: 'assets/images/mangch.jpg',
+            link: 'https://github.com/alikwon/AIA-Mangchi',
+            title: 'Mangch',
             demo: false,
-            technologies: ['JSP', 'HTML5','JQuery'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
+            technologies: ['JSP', 'JSTL','MySQL','AWS','Bootstrap'],
+            description: "[자바 MVC구현 프로젝트] 우리동네 대여 프로그램",
             categories: ['jsp']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
+            image: 'assets/images/mangch-final.jpg',
+            link: 'https://github.com/alikwon/BIT_CAMP/tree/master/Spring_project/Mangch-chat',
+            title: 'Mangch-Final',
             demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+            technologies: ['Spring Legacy', 'JSP','JSTL','HTML5','MySQL','MyBatis','AWS'],
+            description: "[Spring 프로젝트] 우리동네 대여 프로그램",
             categories: ['spring']
         },
         
