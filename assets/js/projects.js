@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['JAVA'],
             description: "[자바 미니프로젝트] 기초를 다지기 위해 이클립스 콘솔창을 이용하는 간단한 영화 예매 프로그램 구현",
-            categories: ['java']
+            categories: ['featured','java']
         },
         {
             image: 'assets/images/bitcafe.jpg',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['HTML', 'JavaScript','CSS','JQuery','JSON'],
             description: "[웹표준 프로젝트] 카페 키오스크를 HTML5를 이용해 구현",
-            categories: ['html']
+            categories: ['featured','html']
         },
         {
             image: 'assets/images/mangch.jpg',
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['JSP', 'JSTL','MySQL','AWS','Bootstrap'],
             description: "[자바 MVC구현 프로젝트] 우리동네 대여 프로그램",
-            categories: ['jsp']
+            categories: ['featured','jsp']
         },
         {
             image: 'assets/images/mangch-final.jpg',
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: 'http://ec2-54-180-115-119.ap-northeast-2.compute.amazonaws.com:8080/mangh/',
             technologies: ['Spring Legacy', 'JSP','JSTL','HTML5','MySQL','MyBatis','AWS'],
             description: "[Spring 프로젝트] 우리동네 대여 프로그램",
-            categories: ['spring']
+            categories: ['featured','spring']
         },
         
     ]
