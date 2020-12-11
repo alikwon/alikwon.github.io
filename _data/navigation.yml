@@ -1,18 +1,15 @@
 nav:
-  - title: "Services"
+  - title: "About Me"
     section: services
 
-  - title: "Portfolio"
+  - title: "Skils"
     section: portfolio
     
-  - title: "About"
+  - title: "Project"
     section: timeline
-
-  - title: "Team"
-    section: team
 
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "블로그"
+    url: https://blog.naver.com/rnjswownskj/
