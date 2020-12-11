@@ -1,18 +1,15 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: 권재준의 Portfolio
+description: 계속 발전하고 싶은 개발자 권재준입니다.
+site_title: 'Portfolio by Kwon Jae-Jun'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: alikwon
+blog_url: https://blog.naver.com/rnjswownskj
+email: wownskl@gmail.com
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
