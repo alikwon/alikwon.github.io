@@ -11,20 +11,20 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
-            title: 'Mporter',
-            demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            image: 'assets/images/beatbox.jpg',
+            link: 'https://github.com/alikwon/BIT_CAMP/tree/master/BitBox',
+            title: 'BeatBox',
+            demo: '',
+            technologies: ['JAVA'],
+            description: "자바 기초를 다지기 위해 이클립스 콘솔창을 이용하는 간단한 영화 예매 프로그램 구현",
             categories: ['featured', 'webdev']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
+            image: 'assets/images/bitcafe.jpg',
+            link: 'https://github.com/alikwon/BIT_CAMP/tree/master/CafeProject',
+            title: 'Cafe Kiosk',
+            demo: '',
+            technologies: ['HTML', 'JavaScript','CSS','JQuery'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             categories: ['featured', 'webdev']
         },
