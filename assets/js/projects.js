@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/alikwon/AIA-Mangchi',
             title: 'Mangch',
             demo: false,
-            technologies: ['JSP', 'JSTL','MySQL','AWS','Bootstrap'],
+            technologies: ['JSP', 'JSTL','MySQL','AWS'],
             description: "[자바 MVC구현 프로젝트] 우리동네 대여 프로그램",
             categories: ['featured','jsp']
         },
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/alikwon/BIT_CAMP/tree/master/Spring_project/Mangch-chat',
             title: 'Mangch-Final',
             demo: 'http://ec2-54-180-115-119.ap-northeast-2.compute.amazonaws.com:8080/mangh/',
-            technologies: ['Spring Legacy', 'JSP','JSTL','HTML5','MySQL','MyBatis','AWS'],
+            technologies: ['Spring','MySQL','MyBatis','AWS'],
             description: "[Spring 프로젝트] 우리동네 대여 프로그램",
             categories: ['featured','spring']
         },
