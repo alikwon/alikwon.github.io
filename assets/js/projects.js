@@ -41,7 +41,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mangch-final.jpg',
             link: 'https://github.com/alikwon/BIT_CAMP/tree/master/Spring_project/Mangch-chat',
             title: 'Mangch-Final',
-            demo: 'https://www.nagekar.com/mpw',
+            demo: 'http://ec2-54-180-115-119.ap-northeast-2.compute.amazonaws.com:8080/mangh/',
             technologies: ['Spring Legacy', 'JSP','JSTL','HTML5','MySQL','MyBatis','AWS'],
             description: "[Spring 프로젝트] 우리동네 대여 프로그램",
             categories: ['spring']
